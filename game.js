@@ -7,7 +7,7 @@ require('./libs/wrapper/systemInfo');
 window.__globalAdapter.init(function () {
     require('./src/settings');
     // Will be replaced with cocos2d-js path in editor
-    require('cocos/cocos2d-js-min.js');
+    requirePlugin('cocos');
     require('./libs/common/engine/index');
     // Introduce Cocos Service here
     require('./main');

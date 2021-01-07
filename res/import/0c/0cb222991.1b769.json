@@ -1,1 +1,0 @@
-[{"__type__":"cc.SpriteFrame","content":{"name":"checkbox","texture":"1798514e4","rect":[583,1785,23,23],"offset":[0,0],"originalSize":[23,23],"capInsets":[0,0,0,0]}},{"__type__":"cc.SpriteFrame","content":{"name":"checkbox-yes","texture":"1798514e4","rect":[520,1818,26,19],"offset":[0,0],"originalSize":[26,19],"rotated":1,"capInsets":[0,0,0,0]}}]
